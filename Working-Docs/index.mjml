@@ -1,0 +1,61 @@
+<mjml>
+  <mj-head>
+
+  </mj-head>
+  <mj-body padding="0" width="450px">
+
+
+
+
+
+    <!-- Signature   -->
+    <mj-section background-color="#fafafa" padding="0">
+
+      <mj-column width="25%" border-right="3px solid #3a88bf">
+        <mj-image src="https://files.constantcontact.com/27019e74801/0982c05a-114d-47c7-97a3-4ba57508b930.jpg" href="https://www.linkedin.com/in/jamie-rachael-morris/" />
+        <mj-social padding="0">
+
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/in/jamie-rachael-morris/">
+
+          </mj-social-element>
+          <mj-social-element name="google" href="mailto:jamie.rachael@gmail.com">
+
+          </mj-social-element>
+          <mj-social-element name="github" href="https://github.com/jamierachael">
+
+          </mj-social-element>
+
+        </mj-social>
+
+      </mj-column>
+
+
+
+      <mj-column width="75%">
+
+        <mj-text color="#3a88bf" font-size="16px" padding-bottom="0" text-transform="uppercase">Jamie Rachael Morris</mj-text>
+        <mj-text padding-top="3px" padding-left="30px" letter-spacing="1px" font-size="12px" font-weight="bold" color="#626262">Full Stack Web Developer</mj-text>
+
+        <mj-text line-height="7px" font-size="10px" color="#626262">
+          EMAIL: jamie.rachael@gmail.com <br><br>
+          PHONE: 714-786-0736<br><br>
+          LINKEDIN: https://www.linkedin.com/in/jamie-rachael-morris/<br><br>
+          GITHUB: https://github.com/jamierachael<br><br>
+          PORTFOLIO: https://jamierachael.github.io/
+
+        </mj-text>
+
+
+
+      </mj-column>
+
+
+
+    </mj-section>
+
+
+
+
+
+  </mj-body>
+</mjml>
